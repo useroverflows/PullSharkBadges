@@ -1,2 +1,2 @@
 # PullSharkBadges
-"An Automated GitHub Pull Shark Achievement Collectorr"
+"An Automated GitHub Pull Shark Achievement Collecorr"
